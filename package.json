@@ -1,0 +1,25 @@
+{
+  "name": "new_github_dir",
+  "version": "1.0.0",
+  "description": "\"# git_practice\"",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonliao520/git_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersonliao520/git_practice/issues"
+  },
+  "homepage": "https://github.com/andersonliao520/git_practice#readme",
+  "dependencies": {
+    "all": "0.0.0",
+    "express": "^4.17.1"
+  }
+}
